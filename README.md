@@ -313,12 +313,7 @@ We welcome contributions! Here's how you can help:
 - 🔧 **Engineering**: Performance optimization and scalability
 - 📚 **Documentation**: Tutorials, examples, and user guides
 
-### **Getting Started**
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
+
 
 ---
 
@@ -331,24 +326,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ⚠️ **Important**: This system is designed for **research and educational purposes**. It should **NOT** be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult qualified healthcare professionals for medical decisions.
 
 ### **Data Privacy**
-- All patient data is anonymized
+- All patient data is anonymized and derefrenced
 - HIPAA compliance considerations included
 - Secure processing pipelines implemented
 
 ---
 
-## 🏆 **Citations & Acknowledgments**
 
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{medical_assistant_2024,
-  title={Multi-Modal Medical Assistant with Vision-Language QA},
-  author={Your Name},
-  year={2024},
-  howpublished={\url{https://github.com/your-username/medical-assistant-ai}}
-}
-```
 
 ### **Acknowledgments**
 - **NIH** for the Chest X-ray Dataset
@@ -357,29 +341,6 @@ If you use this work in your research, please cite:
 - **OpenAI** for CLIP model
 - **LangChain** team for LangGraph
 
----
 
-## 📧 **Contact & Support**
 
-<div align="center">
 
-[![GitHub Issues](https://img.shields.io/badge/Issues-GitHub-red?style=for-the-badge&logo=github)](https://github.com/your-username/medical-assistant-ai/issues)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![Documentation](https://img.shields.io/badge/Docs-Read-green?style=for-the-badge&logo=gitbook)](https://your-docs-site.com)
-
-**Built with ❤️ for the medical AI community**
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 **Ready to revolutionize medical AI?**
-**Star this repository and join our mission to make healthcare more intelligent and accessible!**
-
-[![Stars](https://img.shields.io/github/stars/your-username/medical-assistant-ai?style=social)](https://github.com/your-username/medical-assistant-ai/stargazers)
-[![Forks](https://img.shields.io/github/forks/your-username/medical-assistant-ai?style=social)](https://github.com/your-username/medical-assistant-ai/network/members)
-[![Watchers](https://img.shields.io/github/watchers/your-username/medical-assistant-ai?style=social)](https://github.com/your-username/medical-assistant-ai/watchers)
-
-</div>
