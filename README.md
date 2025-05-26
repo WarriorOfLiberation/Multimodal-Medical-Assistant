@@ -133,41 +133,6 @@ graph TB
 
 ---
 
-## 🛠️ **Installation & Setup**
-
-### **Prerequisites**
-```bash
-Python 3.8+
-CUDA 11.0+ (for GPU acceleration)
-16GB+ RAM recommended
-```
-
-### **Quick Start**
-```bash
-# Clone the repository
-git clone https://github.com/your-username/medical-assistant-ai
-cd medical-assistant-ai
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Download models (automatic on first run)
-python setup_models.py
-
-# Run demo
-python main.py
-```
-
-### **For Kaggle/Colab**
-```python
-# Install required packages
-!pip install transformers torch torchvision langgraph sentence-transformers pydicom opencv-python
-
-# Import and run
-from medical_assistant import MedicalAssistantDemo
-demo = MedicalAssistantDemo()
-await demo.run_demo()
-```
 
 ---
 
